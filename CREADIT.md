@@ -1,4 +1,4 @@
 # Thease are the people that contributed thier bookmarklets to me
 + Nakul-Ardeshana
-+ Glixzzy for the blooket hacks
++ [Coder100](https://replit.com/@Coder100)
 + and many more to come
